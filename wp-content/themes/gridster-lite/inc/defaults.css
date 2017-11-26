@@ -87,7 +87,8 @@ textarea {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 18px;
-	color: #999999;
+	/*color: #999999;*/
+	color: #000000;
 }
 
 /* Headings */

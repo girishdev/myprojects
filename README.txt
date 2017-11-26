@@ -1,11 +1,11 @@
 
 This is Related all about Projects I made:-
-      infoTrak (http://us02.infotrak.us)
-      Ramesh Tours & Travels (http://rtt.co.in/)
+      infoTrak (http://us02.infotrak.us) - (Pictures)
+      Ramesh Tours & Travels (http://rtt.co.in/) - (Pictures)
       LinkMind Solutions
       Roomraider (http://www.roomraidersg.com/)
       Recommender
-      myfubo (http://www.myfubo.com)
+      myfubo (http://www.myfubo.com) - (Pictures)
       Restaurant (http://52.91.254.245/restaurant/)
       NewsPortal (http://52.91.254.245/Newsportal/)
 
